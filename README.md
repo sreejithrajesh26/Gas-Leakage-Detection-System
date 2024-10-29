@@ -47,3 +47,6 @@ Update the WiFi credentials in your ESP32 code:
 ```cpp
 char ssid[] = "Your_SSID";
 char pass[] = "Your_PASSWORD";
+#define BLYNK_TEMPLATE_ID "TMPL3-74NMujS"
+#define BLYNK_TEMPLATE_NAME "GAS LEAK"
+#define BLYNK_AUTH_TOKEN "3VVmL5-IdmvqqBPP60RT7P_7DbnekNLf"
